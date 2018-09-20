@@ -1,0 +1,28 @@
+_repo: Correspondence-of-the-Family-of-Haddock-1657-1719-The-Camden-Miscellany-Volume-the-Eighth_53144
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Thompson, Edward Maunde, Sir
+    aliases:
+    - Thompson, E. Maunde (Edward Maunde), Sir
+    - Thompson, E. M. (Edward Maunde), Sir
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '43962'
+    url: http://www.gutenberg.org/2009/agents/43962
+description: ''
+gutenberg_issued: '2016-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haddock family'
+- !lcc 'DA'
+- GITenberg
+title: "Correspondence of the Family of Haddock, 1657-1719\r\nThe Camden Miscellany:\
+  \ Volume the Eighth"
+url: http://www.gutenberg.org/ebooks/53144
